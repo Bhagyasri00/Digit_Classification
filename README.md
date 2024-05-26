@@ -4,6 +4,11 @@
 
 This project aims to build a robust machine learning pipeline for classifying handwritten digits using the famous MNIST dataset. We leverage convolutional neural networks (CNNs) to achieve high accuracy in recognizing digits ranging from 0 to 9.
 
+
+![image1](https://github.com/Bhagyasri00/Digit_Classification/assets/142825445/cd32ea9b-8188-4441-88c7-c6896d634d27)
+
+
+
 # Pipeline Overview
 1. **Data Loading and Preprocessing**
    - Loaded the MNIST dataset consisting of grayscale images and corresponding labels.
